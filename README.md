@@ -11,4 +11,6 @@ only one robot in this phase is doing the process. Firstly, the robot is in the 
 # Visualization
 The screen is divided into three windows. The first top left one represents the image processing file and in which we can see three parameters with each object. The parameters are a weighted distance of the object from the robot which is updating continuously over time. The second parameter is the object coordinates in the frame and the third parameter shows the coordinates for the robot itself in the frame.
 The second window on the top right corner is a terminal window. The third window is showing the rviz and on rviz we can see the red dots indicating the robot’s location and the purple one indicating the next location of the robot, the coordinates of this location are the coordinates of the objects to be caught and sorted. It can be visualized in the video attached at the end of the report.
+
+
 ![basic idea ](https://github.com/mbilalfaroq/Multi-Robot-System-/assets/75878830/eb5e7f1d-2472-40fb-9553-f224901b9772)
